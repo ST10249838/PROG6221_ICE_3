@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E05C4C-477F-4A4D-9B28-2D4C3F70CD4F}|CafeApp.csproj|C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E05C4C-477F-4A4D-9B28-2D4C3F70CD4F}|CafeApp.csproj|solutionrelative:basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E05C4C-477F-4A4D-9B28-2D4C3F70CD4F}|CafeApp.csproj|C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E05C4C-477F-4A4D-9B28-2D4C3F70CD4F}|CafeApp.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E05C4C-477F-4A4D-9B28-2D4C3F70CD4F}|CafeApp.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\modules\\prog6221\\files\\prog6221_ice_3\\cafeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39E05C4C-477F-4A4D-9B28-2D4C3F70CD4F}|CafeApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E05C4C-477F-4A4D-9B28-2D4C3F70CD4F}|CafeApp.csproj|C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E05C4C-477F-4A4D-9B28-2D4C3F70CD4F}|CafeApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:00:16.51Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:08:23.74Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\Basket.cs",
+              "RelativeDocumentMoniker": "Basket.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\Basket.cs",
+              "RelativeToolTip": "Basket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:43:59.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\Files\\PROG6221_ICE_3\\CafeApp\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:32:05.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
